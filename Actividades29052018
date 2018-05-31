@@ -1,0 +1,9 @@
+Creacion de una Cuenta Nueva de Gmail.
+Solicitar una cuenta nueva dentro del Google Cloud enviroment utilizando la cuenta creada anteriormente.
+Ingresar al entorno de Gloogle Cloud con tu nueva cuenta.
+Ingresar al submenu Compute Engine.
+Crear una nueva instancia con MSF Windows Server 2016 Data Center.
+Revisar elegir el Centro de datos US Central.
+Una vez generada la instancia abrir la VM y resetear el password.
+Ingresar a la maquina para revisar la creacion de esta.
+Apagar la maquina.
